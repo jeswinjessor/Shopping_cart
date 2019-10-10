@@ -1,0 +1,2 @@
+# Shopping_cart
+ A simple shoppig cart where customers can login with their registered username and password, Also customers who don't have an account , can create an account and then sign in, After sign in it takes them to a home page where customer can add, delete,view and modify products in the cart. Also customer can update theri personal information including name, user name and password . logged in customer can also signout from the account. All data is stored in a database. possible exceptions are handled and user inputs were validated. #servlets #java #html #MySQL
